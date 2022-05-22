@@ -8,8 +8,8 @@
 ,
 
 {
-"title":"India Tv",
- "url":"https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8",
+"title":"CLTV 36",
+ "url":"http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8",
 "img":"https://www.sabinchaudhary.com.np/LiveTv/indiatv.png"
 
 }
