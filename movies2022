@@ -1,30 +1,30 @@
  
 [ {
-"title":"CNN Philippines",
- "url":"https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8",
+"title":"CCTN47",
+ "url":"http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
 "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJODvdh0en8S52qz6HdDUk8hCuOERxJkw7g&usqp=CAU"
 
 }
 ,
 
 {
-"title":"CLTV 36",
- "url":"http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8",
+"title":"CNNPhilippines",
+ "url":"https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8",
 "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWZLfjl7N1helIVwNCK-KXOvMzgb216W7bA&usqp=CAU"
 
 }
 ,
 
 {
-"title":"CGTN",
- "url":"http://live.cgtn.com/500/prog_index.m3u8",
+"title":"DepEdTV",
+ "url":"https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8",
 "img":"https://www.sabinchaudhary.com.np/LiveTv/1india.jpg"
 
 }
 ,
 {
-"title":"News 24 India",
- "url":"https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+"title":"DZRHNewsTV",
+ "url":"http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live",
 "img":"https://www.sabinchaudhary.com.np/LiveTv/news24.jpg"
 
 }
