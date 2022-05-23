@@ -72,22 +72,22 @@
 }
 ,
 {
-"title":"DZRHNewsTV",
- "url":"http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live",
+"title":"SMNI.ph",
+ "url":"https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8",
 "img":"https://www.sabinchaudhary.com.np/LiveTv/news24.jpg"
 
 }
 ,
 {
-"title":"DZRHNewsTV",
- "url":"http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live",
+"title":"TeleRadyo.ph",
+ "url":"https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8",
 "img":"https://www.sabinchaudhary.com.np/LiveTv/news24.jpg"
 
 }
 ,
 {
-"title":"DZRHNewsTV",
- "url":"http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live",
+"title":"CLTV 36.ph",
+ "url":"http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8",
 "img":"https://www.sabinchaudhary.com.np/LiveTv/news24.jpg"
 
 }
