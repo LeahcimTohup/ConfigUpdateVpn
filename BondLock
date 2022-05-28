@@ -1,0 +1,30 @@
+Restman R281/R051 Open Telnet Code:
+
+POST:		https://192.168.1.1/xml_action.cgi?method=set
+BODY RAW:	<?xml version="1.0" encoding="US-ASCII"?> <RGW><param><method>call</method><session>000</session><obj_path>wireless</obj_path><obj_method>wifi_ate_enable</obj_method></param></RGW>
+
+
+
+R051 Band Locking Firmware and Disable Firmware OTA Updates
+
+pldthome_r051 - PLDT R051 V010.1.1 (PLDT Version ng R051)
+wget http://ip.jeromelaliagg.com/firmware/pldthome_r051.php -O - | sh
+
+smartbro_r051old - Smartbro R051 V011 (SmartBro Version ng R051 yung old dashboard kagaya ng sa PLDT Home)
+wget http://ip.jeromelaliagg.com/firmware/smartbro_r051old.php -O - | sh
+
+smartbro_r051new - Smartbro R051 V012.1 (SmartBro Version ng R051 yung new dashboard)
+wget http://ip.jeromelaliagg.com/firmware/smartbro_r051new.php -O - | sh
+
+
+Telnet Details after flashing ng firmware.
+
+telnet 192.168.1.1
+Username: root
+Password: $Passworld 143
+
+* R051 Unlock/Openline Code:
+* 
+Sa telnet ng modem iexecute
+1st Code: ubus call version set_atcmd_info '{"atcmd":"AT+FLASHBP=0"}'
+2nd Code: ubus call version set_atcmd_info '{"atcmd":"AT*MRD_IMEI=D"}'
