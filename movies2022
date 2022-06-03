@@ -1,22 +1,17 @@
 [
-  //...
-  {
-    "id": "AnhuiTV.cn",
-    "name": "Anhui TV",
-    "native_name": "安徽卫视",
-    "network": "Anhui",
-    "country": "CN",
-    "subdivision": "CN-AH",
-    "city": "Hefei",
-    "broadcast_area": ["s/CN-AH"],
-    "languages": ["zho"],
-    "categories": ["general"],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "CCTV1.cn",
-    "website": "http://www.ahtv.cn/",
-    "logo": "https://example.com/logo.png"
-  }
-  //...
+    {
+        "Title": "The Bad Guys (2022)",
+        "URL": "https:\/\/dood.watch\/e\/cwqat874lp9m",
+        "ImageURL": "https:\/\/bluray7.com\/wp-content\/uploads\/2022\/04\/7qop80YfuO0BwJa1uXk1DXUUEwv-467x700.jpg"
+    },
+    {
+        "Title": "Morbius (2022)",
+        "URL": "https:\/\/dood.watch\/e\/4hypvns673sg",
+        "ImageURL": "https:\/\/bluray7.com\/wp-content\/uploads\/2022\/04\/7gmOjg7lQXGLW8wX31ry1IdIY07-467x700.jpg"
+    },
+    {
+        "Title": "The Lost City (2022)",
+        "URL": "https:\/\/dood.watch\/d\/660lzqi2vc2y",
+        "ImageURL": "https:\/\/bluray7.com\/wp-content\/uploads\/2022\/04\/rnheO8cFvCYcmZsDrBoabJbKLFE-467x700.jpg"
+    }
 ]
