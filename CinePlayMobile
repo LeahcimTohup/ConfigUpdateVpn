@@ -1,4 +1,5 @@
 {
-  "versionCode": 13,
+  "versionCode": 2,
   "updateLink": "https://google.com",
+  "otherData": "..."
 }
