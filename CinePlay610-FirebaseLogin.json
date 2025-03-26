@@ -1,4 +1,13 @@
 {
-  "versionCode": 618,
-  "updateLink": "https://www.mediafire.com/file/twieymzgq18newt/CPlay_6.1.1.apk/file"
+  "latestVersion": "6.2.6",
+  "url": "https://cineplay.shop/DownloadAPK/CinePlay____6.2.6.apk",
+  "releaseNotes": [
+    "✓ Performance boosts",
+    "✓ Bug fixes & stability",
+    "✓ UI improvements",
+    "✓ Faster search",
+    "✓ Better file handling",
+    "✓ New notifications",
+    "✓ Various optimizations"
+  ]
 }
